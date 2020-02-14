@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f46be506-b3a7-47c9-8ac5-709bef38ac52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Xkp3SQ3PQ8KrXUGRw7FflYLQkG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f46be506-b3a7-47c9-8ac5-709bef38ac52" name="Default Changelist" comment="" />
+      <created>1581599748355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581599748355</updated>
+      <workItem from="1581599757943" duration="13189000" />
+      <workItem from="1581665050558" duration="9935000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="83" y="122" width="1243" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581603872578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="83" y="122" width="1243" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1581603872578" />
+    <state x="2931" y="132" width="626" height="852" key="find.popup" timestamp="1581617327392">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="2931" y="132" width="626" height="852" key="find.popup/1920.10.1920.1040/0.0.1920.1040@1920.10.1920.1040" timestamp="1581617327392" />
+  </component>
+</project>

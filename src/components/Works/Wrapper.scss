@@ -1,0 +1,44 @@
+$steelblue: rgb(59, 145, 194);
+
+.wrapper {
+  width: 60%;
+  margin: 0 20% 2rem;
+  padding: 0 1rem;
+
+  hr {
+    margin: 0 0 1rem;
+    width: 50px;
+    height: 5px;
+    background-color: black;
+    border: none;
+  }
+
+  .lorem-paragraph {
+    text-align: justify;
+    margin-top: 2rem;
+    padding-bottom: 700px;
+  }
+
+  .justify {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    button {
+      font-weight: 700;
+      display: block;
+      background-color: white;
+      border: 2px solid $steelblue;
+      color: $steelblue;
+      padding: 0.5rem 1.5rem 0.5rem 1rem;
+      margin: 1rem 0;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    width: auto;
+    margin: 0;
+  }
+}
