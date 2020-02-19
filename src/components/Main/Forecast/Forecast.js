@@ -20,7 +20,7 @@ class Forecast extends React.Component {
         const api_call = await fetch(`http://api.openweathermap.org/data/2.5/weather?q=Vilnius&appid=${API_key}`);
         const response = await api_call.json();
         const id = response.weather[0].id;
-        var weather = parseInt(id.toString()[0]);
+        const weather = parseInt(id.toString()[0]);
         this.setState({weather});
     };
 

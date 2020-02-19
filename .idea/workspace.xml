@@ -21,6 +21,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,6 +36,8 @@
       <workItem from="1581599757943" duration="13189000" />
       <workItem from="1581665050558" duration="9935000" />
       <workItem from="1581679218288" duration="29000" />
+      <workItem from="1582012251882" duration="21614000" />
+      <workItem from="1582100683107" duration="6601000" />
     </task>
     <servers />
   </component>
@@ -42,13 +45,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="83" y="122" width="1243" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581603872578">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="83" y="122" width="1243" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1581603872578" />
-    <state x="2931" y="132" width="626" height="852" key="find.popup" timestamp="1581617327392">
+    <state x="2610" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582105296008">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state x="2931" y="132" width="626" height="852" key="find.popup/1920.10.1920.1040/0.0.1920.1040@1920.10.1920.1040" timestamp="1581617327392" />
+    <state x="2610" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.10.1920.1040/0.0.1920.1040@1920.10.1920.1040" timestamp="1582105296008" />
+    <state x="2381" y="172" key="SettingsEditor" timestamp="1582024104632">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="172" key="SettingsEditor/1920.10.1920.1040/0.0.1920.1040@1920.10.1920.1040" timestamp="1582024104632" />
+    <state x="83" y="122" width="1243" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582036318562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="83" y="122" width="1243" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582036318562" />
+    <state x="2931" y="132" width="626" height="852" key="find.popup" timestamp="1582105218928">
+      <screen x="1920" y="10" width="1920" height="1040" />
+    </state>
+    <state x="2931" y="132" width="626" height="852" key="find.popup/1920.10.1920.1040/0.0.1920.1040@1920.10.1920.1040" timestamp="1582105218928" />
   </component>
 </project>

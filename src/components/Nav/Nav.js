@@ -1,19 +1,20 @@
+// jshint ignore: start
+
 import React, {useEffect, useState} from 'react';
 import {Link, withRouter} from "react-router-dom";
 import {connect} from "react-redux";
 import {addPath} from "../../redux/actions";
-
-import DrawerToggleButton from '../SideDrawer/DrawerToggleButton';
+import {DrawerToggleButton} from '../SideDrawer/DrawerToggleButton';
 import './Nav.scss';
 
-const Nav = withRouter(function Nav({location, addPath, drawerToggle}) {
-    const [lastPath, setCurrentPath] = useState(location.pathname);
+const Nav = withRouter(function Nav({location, addPath}) {
+    const [ignore, setCurrentPath] = useState(location.pathname);
 
     useEffect(() => {
         const {pathname} = location;
         addPath(pathname);
         setCurrentPath(pathname);
-    }, [location.pathname]);
+    }, [addPath, location, location.pathname]);
 
     return (
         <header className="header">
@@ -50,7 +51,7 @@ const Nav = withRouter(function Nav({location, addPath, drawerToggle}) {
                     </ul>
                 </div>
                 <div className="nav-toggle-button">
-                    <DrawerToggleButton click={drawerToggle}/>
+                    <DrawerToggleButton/>
                 </div>
             </nav>
         </header>

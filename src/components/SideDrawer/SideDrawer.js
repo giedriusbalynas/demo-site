@@ -1,10 +1,13 @@
 import React from 'react';
 import './SideDrawer.scss';
+import {useSelector} from 'react-redux';
 import {Link} from "react-router-dom";
 
-const sideDrawer = props => {
+export const SideDrawer = () => {
+    const selector = useSelector(state => state.drawerReducer);
     let drawerClasses = ['side-drawer'];
-    if (props.show) {
+
+    if (selector) {
         drawerClasses = ['side-drawer', 'open']
     }
 
@@ -21,4 +24,4 @@ const sideDrawer = props => {
     )
 };
 
-export default sideDrawer;
+

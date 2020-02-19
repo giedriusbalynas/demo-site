@@ -1,12 +1,16 @@
 import React from 'react';
 import './DrawerToggleButton.scss';
+import {useDispatch} from 'react-redux';
+import {sideDrawerOpen} from '../../redux/actions';
 
-const drawerToggleButton = props => (
-    <button className="toggle-button" onClick={props.click}>
-        <div className="toggle-button-line"/>
-        <div className="toggle-button-line"/>
-        <div className="toggle-button-line"/>
-    </button>
-);
+export const DrawerToggleButton = () => {
+    const dispatchOpen = useDispatch();
 
-export default drawerToggleButton;
+    return (
+        <button className="toggle-button" onClick={() => dispatchOpen(sideDrawerOpen())}>
+            <div className="toggle-button-line"/>
+            <div className="toggle-button-line"/>
+            <div className="toggle-button-line"/>
+        </button>
+    )
+};

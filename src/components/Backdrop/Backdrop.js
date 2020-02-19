@@ -1,8 +1,12 @@
 import React from 'react';
 import './Backdrop.scss';
+import {useDispatch} from 'react-redux';
+import {backdropClosed} from '../../redux/actions';
 
-const backdrop = props => (
-    <div className="backdrop" onClick={props.click}/>
-);
+export const Backdrop = () => {
 
-export default backdrop;
+    const dispatchClose = useDispatch();
+
+    return (<div className="backdrop" onClick={() => dispatchClose(backdropClosed())}/>)
+};
+
