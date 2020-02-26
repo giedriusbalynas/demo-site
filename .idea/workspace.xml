@@ -8,7 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../mokausi-react" />
   </component>
   <component name="ProjectId" id="1Xkp3SQ3PQ8KrXUGRw7FflYLQkG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,8 +20,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mokausi-react" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\mokausi-react\src" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,21 +42,46 @@
       <workItem from="1581665050558" duration="9935000" />
       <workItem from="1581679218288" duration="29000" />
       <workItem from="1582012251882" duration="21614000" />
-      <workItem from="1582100683107" duration="6601000" />
+      <workItem from="1582100683107" duration="7816000" />
+      <workItem from="1582187938193" duration="12884000" />
+      <workItem from="1582276054044" duration="4775000" />
+      <workItem from="1582546072291" duration="1440000" />
+      <workItem from="1582619279631" duration="7382000" />
+      <workItem from="1582704146525" duration="7019000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="903" y="181" key="#Notifications" timestamp="1582713472918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="903" y="181" key="#Notifications/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582713472918" />
     <state x="2610" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582105296008">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
     <state x="2610" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.10.1920.1040/0.0.1920.1040@1920.10.1920.1040" timestamp="1582105296008" />
-    <state x="2381" y="172" key="SettingsEditor" timestamp="1582024104632">
+    <state x="2660" y="284" key="FileChooserDialogImpl" timestamp="1582188011406">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
+    <state x="2660" y="284" key="FileChooserDialogImpl/1920.10.1920.1040/0.0.1920.1040@1920.10.1920.1040" timestamp="1582188011406" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1582714554767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582714554767" />
     <state x="2381" y="172" key="SettingsEditor/1920.10.1920.1040/0.0.1920.1040@1920.10.1920.1040" timestamp="1582024104632" />
     <state x="83" y="122" width="1243" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582036318562">
       <screen x="0" y="0" width="1920" height="1040" />
