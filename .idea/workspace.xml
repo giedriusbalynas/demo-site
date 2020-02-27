@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f46be506-b3a7-47c9-8ac5-709bef38ac52" name="Default Changelist" comment="" />
+    <list default="true" id="f46be506-b3a7-47c9-8ac5-709bef38ac52" name="Default Changelist" comment="Create product, navbar, beginning of list.">
+      <change beforePath="$PROJECT_DIR$/../burger-builder-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../burger-builder-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../burger-builder-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../burger-builder-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../burger-builder-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../burger-builder-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../burger-builder-app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo-site.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo-site.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-inventory/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-inventory/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-inventory/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-inventory/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-inventory/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-inventory/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warehouse-inventory/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse-inventory/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../mokausi-react" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../warehouse-inventory" />
   </component>
   <component name="ProjectId" id="1Xkp3SQ3PQ8KrXUGRw7FflYLQkG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,7 +36,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mokausi-react" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../warehouse-inventory" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -48,7 +65,19 @@
       <workItem from="1582546072291" duration="1440000" />
       <workItem from="1582619279631" duration="7382000" />
       <workItem from="1582704146525" duration="7019000" />
+      <workItem from="1582715232958" duration="10430000" />
+      <workItem from="1582733376900" duration="58000" />
+      <workItem from="1582733447532" duration="4245000" />
+      <workItem from="1582788384417" duration="27345000" />
     </task>
+    <task id="LOCAL-00001" summary="Context type and useContext">
+      <created>1582715388743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582715388743</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,30 +88,55 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Context type and useContext" />
+    <MESSAGE value="Create product, navbar, beginning of list." />
+    <option name="LAST_COMMIT_MESSAGE" value="Create product, navbar, beginning of list." />
   </component>
   <component name="WindowStateProjectService">
     <state x="903" y="181" key="#Notifications" timestamp="1582713472918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="903" y="181" key="#Notifications/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582713472918" />
-    <state x="2610" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582105296008">
-      <screen x="1920" y="10" width="1920" height="1040" />
+    <state x="1077" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582814804490">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="1077" y="313" key="#com.intellij.fileTypes.FileTypeChooser/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582814804490" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582797112600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582797112600" />
     <state x="2610" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.10.1920.1040/0.0.1920.1040@1920.10.1920.1040" timestamp="1582105296008" />
-    <state x="2660" y="284" key="FileChooserDialogImpl" timestamp="1582188011406">
-      <screen x="1920" y="10" width="1920" height="1040" />
+    <state x="493" y="27" width="1361" height="980" key="CommitChangelistDialog2" timestamp="1582817254131">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="493" y="27" width="1361" height="980" key="CommitChangelistDialog2/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582817254131" />
+    <state x="368" y="82" key="DiffContextDialog" timestamp="1582715349277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="82" key="DiffContextDialog/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582715349277" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1582737362314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582737362314" />
     <state x="2660" y="284" key="FileChooserDialogImpl/1920.10.1920.1040/0.0.1920.1040@1920.10.1920.1040" timestamp="1582188011406" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1582714554767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582714554767" />
     <state x="2381" y="172" key="SettingsEditor/1920.10.1920.1040/0.0.1920.1040@1920.10.1920.1040" timestamp="1582024104632" />
+    <state x="903" y="248" key="Vcs.Push.Dialog.v2" timestamp="1582715408420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="903" y="248" key="Vcs.Push.Dialog.v2/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582715408420" />
     <state x="83" y="122" width="1243" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582036318562">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

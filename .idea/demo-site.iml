@@ -5,5 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="mokausi-react" />
+    <orderEntry type="module" module-name="burger-builder-app" />
+    <orderEntry type="module" module-name="warehouse-inventory" />
   </component>
 </module>
